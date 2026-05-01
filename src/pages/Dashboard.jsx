@@ -137,7 +137,7 @@ export default function Dashboard() {
   return (
     <div className="page">
       <nav className="navbar">
-        <span className="navbar-brand">📚 LIBRARY</span>
+        <span className="navbar-brand">📚 Bhatia Ashram Library</span>
         <div className="navbar-right">
           <span>{name}</span>
           <button className="btn-outline" style={{ color: '#ccc', borderColor: '#444' }} onClick={logout}>

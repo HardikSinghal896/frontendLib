@@ -587,7 +587,7 @@ export default function AdminPanel() {
   return (
     <div className="page">
       <nav className="navbar">
-        <span className="navbar-brand">📚 LIBRARY — ADMIN</span>
+        <span className="navbar-brand">📚 Bhatia Ashram Library — Admin</span>
         <div className="navbar-right">
           <span>Admin</span>
           <button className="btn-outline" style={{ color: '#ccc', borderColor: '#444' }} onClick={logout}>

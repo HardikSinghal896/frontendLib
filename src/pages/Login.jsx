@@ -72,7 +72,10 @@ export default function Login() {
   return (
     <div className="login-page">
       <div className="login-box">
-        <div className="login-title">📚 Library</div>
+        <div className="login-title">📚 Seth Kanhaiya Lal Sethiya</div>
+        <div className="login-subtitle" style={{ fontSize: 12, fontWeight: 600, marginBottom: 4, color: 'var(--text)' }}>
+          Bhatia Ashram Library
+        </div>
         <div className="login-subtitle">
           {mode === 'login' ? 'Sign in to your account' : 'Create a new account'}
         </div>
