@@ -135,9 +135,9 @@ export default function Login() {
           )}
         </div>
 
-        <div style={{ marginTop: 20, padding: '10px 12px', background: '#f8f7f4', borderRadius: 2, fontSize: 12, color: 'var(--text-muted)' }}>
+        {/* <div style={{ marginTop: 20, padding: '10px 12px', background: '#f8f7f4', borderRadius: 2, fontSize: 12, color: 'var(--text-muted)' }}>
           <strong>Admin login:</strong> admin@library.com / admin123
-        </div>
+        </div> */}
       </div>
     </div>
   )
